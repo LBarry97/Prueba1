@@ -6,4 +6,4 @@
 2. Prueba
   * Practica lo aprendido
 3. Aprede
-  * Ya has aprendido!!!
+  * Ya has *aprendido*!!!
