@@ -1,5 +1,5 @@
 # Inicio
-##Primera prueba:
+###Primera prueba:
 
 1. Studia
   * Asiste a clase
