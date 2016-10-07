@@ -8,5 +8,5 @@
 3. Aprede
   * Ya has **aprendido**!!!
 
-[GitHub](http://github.com)
-[Borja Moll](http://www.iesfbmoll.org/)
+*[GitHub](http://github.com)
+*[Borja Moll](http://www.iesfbmoll.org/)
