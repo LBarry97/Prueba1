@@ -15,4 +15,4 @@ Porcentaje de **africanos** que visten con ropa africana en Espanya:
 
 * [Boubous de **Nigeria**](https://es.pinterest.com/explore/boubou-africain-homme-947385650675/)
 * [Boubous **_Dupsies_**](https://es.pinterest.com/explore/boubou-africain-homme-947385650675/)
-* [Vestidos Etsy](https://www.etsy.com/market/african_dress)
+* [Vestidos _Etsy_](https://www.etsy.com/market/african_dress)
