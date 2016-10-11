@@ -3,7 +3,7 @@
 Una demostracion de como visten las personas de _Mali_ al salir de sus casas
 
 ![alt text][BoubouMali]
-[BoubouMali]:
+[BoubouMali.jpg]:
 
 Porcentaje de **africanos** que visten con ropa africana en Espanya:
 
