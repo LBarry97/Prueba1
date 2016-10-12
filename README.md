@@ -10,8 +10,8 @@
 | **Pais**	    | **Mujeres(%)**		    | **Hombres(%)**	      |
 |---------------|:---------------------:|----------------------:|
 |**Mali**		    |93			                |52			                |
-|Senegal	      |64			                |87			                |
-|Guinea		      |42			                |51			                |
+|**Senegal**	  |64			                |87			                |
+|**Guinea**		  |42			                |51			                |
 
 * [Boubous de **Nigeria**](https://es.pinterest.com/explore/boubou-africain-homme-947385650675/)
 * [Boubous **_Dupsies_**](https://es.pinterest.com/explore/boubou-africain-homme-947385650675/)
