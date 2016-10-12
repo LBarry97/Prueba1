@@ -2,8 +2,7 @@
 
 ###Una demostracion de como visten las personas de Mali al salir de sus casas
 
-![alt text][BoubouMali]
-[BoubouMali.jpg]:
+(Prueba1/BoubouMali.jpg)
 
 ####Porcentaje de africanos que visten con ropa africana en Espanya:
 
