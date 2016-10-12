@@ -1,11 +1,11 @@
 #Vestimenta popular de _Mali_
 
-##Una demostracion de como visten las personas de _Mali_ al salir de sus casas
+###Una demostracion de como visten las personas de _Mali_ al salir de sus casas
 
 ![alt text][BoubouMali]
 [BoubouMali.jpg]:
 
-###Porcentaje de **africanos** que visten con ropa africana en Espanya:
+####Porcentaje de **africanos** que visten con ropa africana en Espanya:
 
 | **Pais**	    | **Mujeres(%)**		    | **Hombres(%)**	      |
 |---------------|:---------------------:|----------------------:|
