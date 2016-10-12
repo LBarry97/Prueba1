@@ -5,7 +5,7 @@
 ![alt text][BoubouMali]
 [BoubouMali.jpg]:
 
-####Porcentaje de **_africanos_** que visten con ropa africana en Espanya:
+####Porcentaje de africanos que visten con ropa africana en _Espanya_:
 
 | **Pais**	    | **Mujeres(%)**		    | **Hombres(%)**	      |
 |---------------|:---------------------:|----------------------:|
