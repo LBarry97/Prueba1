@@ -1,6 +1,6 @@
 #Vestimenta popular de _Mali_
 
-###Una demostracion de como visten las personas de _Mali_ al salir de sus casas
+###Una demostracion de como visten las personas de Mali al salir de sus casas
 
 ![alt text][BoubouMali]
 [BoubouMali.jpg]:
