@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8">
+
+<!DOCTYPE questions>
+<questions>
+	<question>
+		<type>text</type>
+		<title>Este numero 00000011 en decimal es:</title>
+		<answer>3</answer>
+	</question>
+</questions>
