@@ -10,7 +10,7 @@ window.onload = function(){
 			gestionarXml(this);
 		}
 	};
-	xhttp.open("GET", "https://github.com/LBarry97/Prueba1/blob/master/xml/preguntas.xml", true);
+	xhttp.open("GET", "preguntas.xml", true);
 	xhttp.send();
 	
 	// Para corregir gestionamos el contenido introducido en el formoulario
