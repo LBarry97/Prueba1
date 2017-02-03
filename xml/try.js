@@ -16,7 +16,7 @@ window.onload = function(){
 	// Para corregir gestionamos el contenido introducido en el formoulario
 	formElement=document.getElementById("myform");
 	formElement.onsubmit=function(){
-		var s=formElement.element[0].value;
+		var s=formElement.elements[0].value;
 		if (s==secret){
 			alert ("Correcto :)")
 		}else{
