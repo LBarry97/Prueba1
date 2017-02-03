@@ -30,5 +30,5 @@ window.onload = function(){
 function gestionarXml(dadesXml){
 	var xmlDoc = dadesXml.responseXML;
 	document.getElementById("title").innerHTML = xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	secret=parseInt(xmlDoc.getElementsByTagName("answer")[0].childNodes.nodeValue);
+	secret=parseInt(xmlDoc.getElementsByTagName("answer")[0].childNodes[0].nodeValue);
 }
